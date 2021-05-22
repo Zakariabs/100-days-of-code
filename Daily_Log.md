@@ -47,3 +47,18 @@
 **Thoughts** : Because of my internship and training i came to late. I do not have that time to focus at the evening. I prefer to practice in the morning. 
 
 **Link(s) to work**
+
+# Day 5: Mai 20
+
+**Today's Progress**: IToday was too lightweight. I only made a easy programming exercices that i saw on youtube.
+
+**Thoughts** : It was impossible for me to practice a lot. i was kind to tired to program for a least 1h. 
+**Link(s) to work**
+
+# Day 6: Mai 19
+
+**Today's Progress**: IRevised The  first 3 lessons of loops and iterations and finished the 4th one. Then I started the final exercice of the chaptre. 
+
+**Thoughts** : I noticed if i do not learn seriously each day i will lose some of the knowledge. It is also important to make some exercices before hopping to the next chaptre. That's the only way to test my knowledge of that chaptre. I also took my time today beacuse i was enjoying the session 😊.
+
+**Link(s) to work**
