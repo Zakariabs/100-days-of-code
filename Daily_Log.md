@@ -55,10 +55,18 @@
 **Thoughts** : It was impossible for me to practice a lot. i was kind to tired to program for a least 1h. 
 **Link(s) to work**
 
-# Day 6: Mai 19
+# Day 6: Mai 21
 
 **Today's Progress**: IRevised The  first 3 lessons of loops and iterations and finished the 4th one. Then I started the final exercice of the chaptre. 
 
 **Thoughts** : I noticed if i do not learn seriously each day i will lose some of the knowledge. It is also important to make some exercices before hopping to the next chaptre. That's the only way to test my knowledge of that chaptre. I also took my time today beacuse i was enjoying the session 😊.
 
 **Link(s) to work**
+
+# Day 7: Mai 22
+
+**Today's Progress**: I finished the chaptre exercice of iterations and loops. I took a look at the slights to see how to approch it. I made it after a long focus time. I learned several things like how to count and how to take an input and playing with it to the stop the loop without blowing the code up.
+
+**Thoughts** : By taking my time by each lesson i noticed that i am more able to proces the information. By first trying the make the exercice before taking a look at the solutuins i noticed that i am able  to get the wanted results. How I approched the exercice was different than how the Professor did it. But i am learning a lot. 
+
+**Link(s) to work**: /
