@@ -70,3 +70,12 @@
 **Thoughts** : By taking my time by each lesson i noticed that i am more able to proces the information. By first trying the make the exercice before taking a look at the solutuins i noticed that i am able  to get the wanted results. How I approched the exercice was different than how the Professor did it. But i am learning a lot. 
 
 **Link(s) to work**: /
+
+
+# Day 8: Mai 23
+
+**Today's Progress**: I followed the lessons of chapter 6. Dr Chuk approched the strings in details. 
+
+**Thoughts** : I did have not he same motivation to focus on the course. I think that i have to repeat the course because there are somethings that i do not understand tottaly 
+
+**Link(s) to work**: 
