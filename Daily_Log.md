@@ -9,15 +9,6 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
 
 ### Day 2: Mai 17, 
 
@@ -79,3 +70,13 @@
 **Thoughts** : I did have not he same motivation to focus on the course. I think that i have to repeat the course because there are somethings that i do not understand tottaly 
 
 **Link(s) to work**: 
+
+
+### Day 0: February 30, 2016 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**: [Calculator App](http://www.example.com)
