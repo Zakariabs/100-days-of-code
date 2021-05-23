@@ -20,7 +20,7 @@
 1. [BMI-Calculator](https://www.sololearn.com/learning/eom-project/1157/1020)
 
 
-## Day 3: Mai 18
+### Day 3: Mai 18
 
 **Today's Progress**: I followed the first 2 lessons about iterations ( defined and indefined), On my phone i recapitualated the core lessons about the basics of python. 
 
@@ -30,7 +30,7 @@
 1. [BMI-Calculator](https://www.sololearn.com/learning/eom-project/1157/1020)
 
 
-## Day 4: Mai 19
+### Day 4: Mai 19
 
 **Today's Progress**: In the morning on my way to my work i made train my knowledge on sololearn app. 
                       I dived played the second lesson back of iterations and loops and watched the third lesson on freecodecamp. 
@@ -39,14 +39,14 @@
 
 **Link(s) to work**
 
-# Day 5: Mai 20
+### Day 5: Mai 20
 
 **Today's Progress**: IToday was too lightweight. I only made a easy programming exercices that i saw on youtube.
 
 **Thoughts** : It was impossible for me to practice a lot. i was kind to tired to program for a least 1h. 
 **Link(s) to work**
 
-# Day 6: Mai 21
+### Day 6: Mai 21
 
 **Today's Progress**: IRevised The  first 3 lessons of loops and iterations and finished the 4th one. Then I started the final exercice of the chaptre. 
 
@@ -54,7 +54,7 @@
 
 **Link(s) to work**
 
-# Day 7: Mai 22
+### Day 7: Mai 22
 
 **Today's Progress**: I finished the chaptre exercice of iterations and loops. I took a look at the slights to see how to approch it. I made it after a long focus time. I learned several things like how to count and how to take an input and playing with it to the stop the loop without blowing the code up.
 
@@ -63,7 +63,7 @@
 **Link(s) to work**: /
 
 
-# Day 8: Mai 23
+### Day 8: Mai 23
 
 **Today's Progress**: I followed the lessons of chapter 6. Dr Chuk approched the strings in details. 
 
