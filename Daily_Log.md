@@ -72,6 +72,18 @@
 **Link(s) to work**: 
 
 
+### Day 9: Mai 24, 2021 
+##### 
+
+**Today's Progress**: I took a look at the the text version of chapter 6. I made an exercise. I started the new chapter 7 and finished the courses. I tried to make the exercise. the code is correct but i have an issue with reading the file in my IDE. 
+
+**Thoughts**: I got the feeling that i have to take one day break but i m not allowing myself to do dat. I noticed the big improvement that i make by doing the 100DAYSOFCODECHALLENGE. WHat i can try is try different ways by exploring the possibilitys and making some fun projects. 
+I noticed that i forgot a little bit about he basics of the past courses. I have to go back and take a look at the details. 
+
+**Link(s) to work**: /
+
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
