@@ -97,15 +97,25 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 ### Day 11: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started with learning at JetBrains academy "Hyperskill". I decided to start from the fundementals.I working on my first project Zookeeper. My goals is to finish the courses provided on freecodecamp with a good project based approach on Hyperskill to have large varied resources.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: My start at Hyperskill motivated me a lot. A good opporunity to build a good Portfolio on github. The courses from py4e helped me a lot. to understand the lessons on hyperskill. The one platform completes the other one.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: //
 
 
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 12 : February 30, 2016 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: working on the fourth and final stage of the  zookeeper project. i learned about the followed topics ==> integer arithmetic, Naming variables, Program with numbers, Bolean logic and Comparisons. I also practised some exercices. 
+
+**Thoughts**: by following the road i am have no patience more and i am not taing my time like the beginning. I want to be fast and the finish the project. I will try to be patient and take more time by each topic.
+
+**Link(s) to work**: /
+
+
+### Day : February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
