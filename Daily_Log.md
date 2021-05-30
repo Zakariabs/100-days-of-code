@@ -84,7 +84,7 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 
 
-### Day 10: February 25, 2021 (Example 2)
+### Day 10: Mai 25, 2021 
 ##### 
 
 **Today's Progress**: Watched some educational videos about python.
@@ -94,7 +94,7 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 **Link(s) to work**: /
 
 
-### Day 11: February 30, 2016 (Example 2)
+### Day 11: Mai 26, 2021
 ##### (delete me or comment me out)
 
 **Today's Progress**: Started with learning at JetBrains academy "Hyperskill". I decided to start from the fundementals.I working on my first project Zookeeper. My goals is to finish the courses provided on freecodecamp with a good project based approach on Hyperskill to have large varied resources.
@@ -105,21 +105,29 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 
 
-### Day 12 : February 30, 2016 (Example 2)
+### Day 12 : Mai 27, 2021 
 ##### (delete me or comment me out)
 
 **Today's Progress**: working on the fourth and final stage of the  zookeeper project. i learned about the followed topics ==> integer arithmetic, Naming variables, Program with numbers, Bolean logic and Comparisons. I also practised some exercices. 
 
-**Thoughts**: by following the road i am have no patience more and i am not taing my time like the beginning. I want to be fast and the finish the project. I will try to be patient and take more time by each topic.
+**Thoughts**: by following the road I have no patience more and i am not taing my time like the beginning. I want to be fast and the finish the project. I will try to be patient and take more time by each topic.
 
 **Link(s) to work**: /
 
 
-### Day : February 30, 2016 (Example 2)
+### Day 13 : Mai 28, 2016 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I worked on the if statements lesson and solved the problems in the topic.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: it was not that easy. I was to tired.
+**Link(s) to work**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 14 : Mai 29, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: I finished the exercises of the topics of the last stage and so i could finish the project. i tried to push the project to my github.  
+
+**Thoughts**: I got a good feeling by finishing the first project. I struggeled a lot with understanding the questions. Sometimes you do not get enough information to understand what you have been asked. 
+
+**Link(s) to work**: https://github.com/Zakariabs/Zookeeper
