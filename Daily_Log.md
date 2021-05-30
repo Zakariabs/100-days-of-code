@@ -131,3 +131,14 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 **Thoughts**: I got a good feeling by finishing the first project. I struggeled a lot with understanding the questions. Sometimes you do not get enough information to understand what you have been asked. 
 
 **Link(s) to work**: https://github.com/Zakariabs/Zookeeper
+
+
+### Day 14 : Mai 30, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**:  I started the new project on Hyperskill " Simple Chatty Bot " i am already on the 3/4 stage. Beacuse there lot of stuff being repeated.
+
+**Thoughts**: I try to not be that impatient to finish fast my path. So i try to take a break between the project to revise everything before going to new stuff.
+
+**Link(s) to work**: 
+
