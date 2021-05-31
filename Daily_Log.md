@@ -142,3 +142,12 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 **Link(s) to work**: 
 
+
+### Day 15 : Mai 31, 2021
+#####
+
+**Today's Progress**: I went back to freecodecamp and revised the lessons. The lessons provided by Mr Chuck are too helpfull. 
+
+**Thoughts**: I think that by focussing on the freecodecamp provided lessons at the moment the best choices because of the wel good explained content. After that i can start making the projects in the weekend at hyperskill.org. 
+
+**Link(s) to work**:/
