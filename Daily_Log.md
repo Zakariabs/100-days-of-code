@@ -151,3 +151,32 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 **Thoughts**: I think that by focussing on the freecodecamp provided lessons at the moment the best choices because of the wel good explained content. After that i can start making the projects in the weekend at hyperskill.org. 
 
 **Link(s) to work**:/
+
+### Day 16: June 1st, 2021 
+##### 
+
+**Today's Progress**: I revised the functions vidoes. I made the daily challenge on Hyperskill
+
+**Thoughts**: i am trying to stay motivated!
+
+**Link(s) to work**: /
+
+
+### Day 17: June 2nd, 2021 
+##### 
+
+**Today's Progress**: i rode the the article provided by Mr Chuck website about functions and made the exercie about it. 
+
+**Thoughts**: I am trying the master the basics before moving forward. I got the feeling that i am doing it will. The only difficulty that I am facing is the revision. I am kinda lazy the take a look back at the chaptres and videos. I have to push my self to do it but in this 17 days I learned a lot about the basics of programming. If didn't switch to another platform and came back to freecodecampe i think i will be reaching the 80%  of the course. But no worry's! I got the whole summer!
+
+**Link(s) to work**: /
+
+
+### Day 0: February 30, 2016 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**: [Calculator App](http://www.example.com)
