@@ -172,6 +172,27 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 **Link(s) to work**: /
 
 
+### Day 18: June 3rd, 2021 
+##### 
+
+**Today's Progress**: I finished the the lessons about functions and solved the problemes.
+
+**Thoughts**: I am starting the get the logic of programming. I have less issues with easy problemes that i struggeled with in the past. 
+
+**Link(s) to work**: /
+
+
+### Day 19: June 4th, 2021
+##### 
+
+**Today's Progress**: After i finished a small lesson about conditions. i finished the last stage of Simple Chatty Bot project and uploaded it to my github.
+
+**Thoughts**: After 20 day of coding i am starting to think like a programmer. I can visualise the problemes in my mind and start solving the problmes in my mind. 
+Now i am thinking a bout what i would do next. Taking a break to view next lessons on FreeCodeCampe or keep going. 
+I really struggle somethimes with easy problems by approching with  a complex methode. I have understand the questions a beter way.
+
+**Link(s) to work**: [SimpleChattyBot]: https://github.com/Zakariabs/SimpleChattyBot
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
