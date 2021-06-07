@@ -216,6 +216,17 @@ I am thinking if i will only focus on freeCodecamp courses or keep going with th
 **Link(s) to work**: /
 
 
+### Day 22: June 7th, 2021 
+##### 
+
+**Today's Progress**: I started with Data Structures "Lists" and i was experementing with Django Framework.
+
+**Thoughts**: The first exercise got like never :D. The first time that i have to think a lot. 
+I have revieuw the lesson to find more patterns to solve the problem!
+
+**Link(s) to work**:/
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
