@@ -193,6 +193,29 @@ I really struggle somethimes with easy problems by approching with  a complex me
 
 **Link(s) to work**: [SimpleChattyBot]: https://github.com/Zakariabs/SimpleChattyBot
 
+### Day 20: June 5th, 2021
+##### 
+
+**Today's Progress**: I watched the videos at FreeCodeCamp  about Loops and Iterations.
+I made an exercise at the end.
+
+**Thoughts**: By revising the topic I was able to understand more stuff. 
+
+**Link(s) to work**: /
+
+
+
+### Day 21: June 6th, 2021 
+##### 
+
+**Today's Progress**: i watched the videos about strings, files and i made some exercises.
+
+**Thoughts**: Low-key mind, not to much effort. Alomst done with revision. time to go further with the next chapters.
+I am thinking if i will only focus on freeCodecamp courses or keep going with the track of Hyperskill.
+
+**Link(s) to work**: /
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
