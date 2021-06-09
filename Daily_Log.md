@@ -227,6 +227,31 @@ I have revieuw the lesson to find more patterns to solve the problem!
 **Link(s) to work**:/
 
 
+
+### Day 23: June 8th, 2021
+##### 
+
+**Today's Progress**: I rode the Lists topic on py4.com and the exercise. I am still sovling the daily challenges of Hyperskill.org
+
+**Thoughts**: I really struggled with lists. Data-structure is new for me and i have to procces the new built-in functions. 
+                
+
+**Link(s) to work**: 
+
+
+
+### Day 23: June 8th, 2021
+##### 
+
+**Today's Progress**: I rode the Lists topic on py4.com and the exercise. I am still sovling the daily challenges of Hyperskill.org
+
+**Thoughts**: I really struggled with lists. Data-structure is new for me and i have to procces the new built-in functions. 
+                
+
+**Link(s) to work**: /
+
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
