@@ -251,7 +251,18 @@ I have revieuw the lesson to find more patterns to solve the problem!
 **Link(s) to work**: /
 
 
+---
+### Day 24: June 9th, 2021
 
+**Today's Progress**: Finished one topic in Jetbrains Academy and repeated one lesson and made some quizes and solved some problemes.
+Solved one problem in Codewars.
+
+**Thoughts**: I did not had the motivation to make the exercises. I did not sleep well the night before and did not train. 
+That made me more unfocused. 
+
+**Link(s) to work**: /
+
+---
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
