@@ -1,5 +1,5 @@
  100 Days Of Code - Log
-
+---
 ### Day 1: Mai 16, 2021 
 ##### 
 
@@ -8,7 +8,7 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
+---
 
 ### Day 2: Mai 17, 
 
@@ -19,7 +19,7 @@
 **Link(s) to work**
 1. [BMI-Calculator](https://www.sololearn.com/learning/eom-project/1157/1020)
 
-
+---
 ### Day 3: Mai 18
 
 **Today's Progress**: I followed the first 2 lessons about iterations ( defined and indefined), On my phone i recapitualated the core lessons about the basics of python. 
@@ -28,7 +28,7 @@
 
 **Link(s) to work**
 1. [BMI-Calculator](https://www.sololearn.com/learning/eom-project/1157/1020)
-
+---
 
 ### Day 4: Mai 19
 
@@ -39,6 +39,7 @@
 
 **Link(s) to work**
 
+---
 ### Day 5: Mai 20
 
 **Today's Progress**: IToday was too lightweight. I only made a easy programming exercices that i saw on youtube.
@@ -46,6 +47,7 @@
 **Thoughts** : It was impossible for me to practice a lot. i was kind to tired to program for a least 1h. 
 **Link(s) to work**
 
+---
 ### Day 6: Mai 21
 
 **Today's Progress**: IRevised The  first 3 lessons of loops and iterations and finished the 4th one. Then I started the final exercice of the chaptre. 
@@ -53,6 +55,8 @@
 **Thoughts** : I noticed if i do not learn seriously each day i will lose some of the knowledge. It is also important to make some exercices before hopping to the next chaptre. That's the only way to test my knowledge of that chaptre. I also took my time today beacuse i was enjoying the session 😊.
 
 **Link(s) to work**
+
+---
 
 ### Day 7: Mai 22
 
@@ -62,6 +66,7 @@
 
 **Link(s) to work**: /
 
+---
 
 ### Day 8: Mai 23
 
@@ -71,6 +76,7 @@
 
 **Link(s) to work**: 
 
+---
 
 ### Day 9: Mai 24, 2021 
 ##### 
@@ -82,7 +88,7 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 **Link(s) to work**: /
 
-
+---
 
 ### Day 10: Mai 25, 2021 
 ##### 
@@ -93,6 +99,7 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 **Link(s) to work**: /
 
+---
 
 ### Day 11: Mai 26, 2021
 ##### (delete me or comment me out)
@@ -103,7 +110,7 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 **Link(s) to work**: //
 
-
+---
 
 ### Day 12 : Mai 27, 2021 
 ##### (delete me or comment me out)
@@ -114,6 +121,7 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 **Link(s) to work**: /
 
+---
 
 ### Day 13 : Mai 28, 2016 (Example 2)
 ##### (delete me or comment me out)
@@ -122,6 +130,8 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 **Thoughts**: it was not that easy. I was to tired.
 **Link(s) to work**: 
+
+---
 
 ### Day 14 : Mai 29, 2021
 ##### (delete me or comment me out)
@@ -132,9 +142,10 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 **Link(s) to work**: https://github.com/Zakariabs/Zookeeper
 
+---
 
 ### Day 14 : Mai 30, 2021
-##### (delete me or comment me out)
+##### 
 
 **Today's Progress**:  I started the new project on Hyperskill " Simple Chatty Bot " i am already on the 3/4 stage. Beacuse there lot of stuff being repeated.
 
@@ -142,6 +153,7 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 **Link(s) to work**: 
 
+---
 
 ### Day 15 : Mai 31, 2021
 #####
@@ -155,12 +167,15 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 ### Day 16: June 1st, 2021 
 ##### 
 
+---
+
 **Today's Progress**: I revised the functions vidoes. I made the daily challenge on Hyperskill
 
 **Thoughts**: i am trying to stay motivated!
 
 **Link(s) to work**: /
 
+---
 
 ### Day 17: June 2nd, 2021 
 ##### 
@@ -171,6 +186,7 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 **Link(s) to work**: /
 
+---
 
 ### Day 18: June 3rd, 2021 
 ##### 
@@ -181,6 +197,7 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 
 **Link(s) to work**: /
 
+---
 
 ### Day 19: June 4th, 2021
 ##### 
@@ -191,7 +208,9 @@ I noticed that i forgot a little bit about he basics of the past courses. I have
 Now i am thinking a bout what i would do next. Taking a break to view next lessons on FreeCodeCampe or keep going. 
 I really struggle somethimes with easy problems by approching with  a complex methode. I have understand the questions a beter way.
 
-**Link(s) to work**: [SimpleChattyBot]: https://github.com/Zakariabs/SimpleChattyBot
+**Link(s) to work**: [SimpleChattyBot](https://github.com/Zakariabs/SimpleChattyBot)
+
+---
 
 ### Day 20: June 5th, 2021
 ##### 
@@ -203,7 +222,7 @@ I made an exercise at the end.
 
 **Link(s) to work**: /
 
-
+---
 
 ### Day 21: June 6th, 2021 
 ##### 
@@ -214,8 +233,7 @@ I made an exercise at the end.
 I am thinking if i will only focus on freeCodecamp courses or keep going with the track of Hyperskill.
 
 **Link(s) to work**: /
-
-
+---
 ### Day 22: June 7th, 2021 
 ##### 
 
@@ -226,7 +244,7 @@ I have revieuw the lesson to find more patterns to solve the problem!
 
 **Link(s) to work**:/
 
-
+---
 
 ### Day 23: June 8th, 2021
 ##### 
@@ -238,7 +256,7 @@ I have revieuw the lesson to find more patterns to solve the problem!
 
 **Link(s) to work**: 
 
-
+---
 
 ### Day 23: June 8th, 2021
 ##### 
@@ -260,14 +278,17 @@ Solved one problem in Codewars.
 **Thoughts**: I did not had the motivation to make the exercises. I did not sleep well the night before and did not train. 
 That made me more unfocused. 
 
-**Link(s) to work**: /
+**Link(s) to work**: [Currency Converter](http://www.example.com)
 
 ---
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 25: June 10th, 2021
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I worked further on the CurrencyConverter Project. I made related exercises and rode some topics
+to be able to the read make the next stage.
+**Thoughts**: 25days further. That's unbelievable. Until today I learned a lot. 
+I have gained a lot of experience with python. I also gained some experience with git. 
+I am trying to contribute on github and build my a good Portfolio. JetBrain Academy boosted my project based learning. But Mr Chuk is teaching me the Core of python.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
