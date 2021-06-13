@@ -220,7 +220,7 @@ I made an exercise at the end.
 
 **Thoughts**: By revising the topic I was able to understand more stuff. 
 
-**Link(s) to work**: /
+**Link(s) to work**: 
 
 ---
 
@@ -232,7 +232,8 @@ I made an exercise at the end.
 **Thoughts**: Low-key mind, not to much effort. Alomst done with revision. time to go further with the next chapters.
 I am thinking if i will only focus on freeCodecamp courses or keep going with the track of Hyperskill.
 
-**Link(s) to work**: /
+**Link(s) to work**: 
+
 ---
 ### Day 22: June 7th, 2021 
 ##### 
@@ -278,7 +279,7 @@ Solved one problem in Codewars.
 **Thoughts**: I did not had the motivation to make the exercises. I did not sleep well the night before and did not train. 
 That made me more unfocused. 
 
-**Link(s) to work**: [Currency Converter](http://www.example.com)
+**Link(s) to work**: [Currency Converter](http://www.github.com/zakariabs)
 
 ---
 ### Day 25: June 10th, 2021
@@ -289,6 +290,31 @@ to be able to the read make the next stage.
 **Thoughts**: 25days further. That's unbelievable. Until today I learned a lot. 
 I have gained a lot of experience with python. I also gained some experience with git. 
 I am trying to contribute on github and build my a good Portfolio. JetBrain Academy boosted my project based learning. But Mr Chuk is teaching me the Core of python.
+**Link(s) to work**: [Currency Converter](http://www.github.com/zakariabs)
 
+---
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 26: June 11th, 2021
+##### 
+
+**Today's Progress**: getting stuck with the sum exercise still trying several ways to solve the problem.
+**Thoughts**: Three days trying to solve the problem.
+**Link(s) to work**: [Currency Converter](http://www.github.com/zakariabs)
+
+---
+
+### Day 27: June 12th, 2021
+##### 
+
+**Today's Progress**: getting stuck with the sum exercise still trying several ways to solve the problem. i made some progress by getting clean integers and putting them in a list. Now have i to get the sum of each line and print it.
+**Thoughts**: It tooks me a long to long time. It is the first time that i am getting stuck with a problem. It also not the moment because i am preparing my thesis some i am not putting that much time in it each day. For the moment I am keeping it to one hour a day. 
+**Link(s) to work**: [Currency Converter](http://www.github.com/zakariabs)
+
+---
+
+### Day 27: June 12th, 2021
+##### 
+
+**Today's Progress**:
+**Thoughts**: 
+**Link(s) to work**: [Currency Converter](http://www.github.com/zakariabs)
