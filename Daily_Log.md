@@ -312,7 +312,18 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 
 ---
 
-### Day 27: June 12th, 2021
+### Day 28: June 13th, 2021
+##### 
+
+**Today's Progress**: I solved the problem after 3 days.
+**Thoughts**: i finally solved the problem but i am not understanding the logic behind. 
+    I have to do my homework and look at he theory of lists the understand the things. 
+**Link(s) to work**: [Currency Converter](http://www.github.com/zakariabs)
+
+
+---
+
+### Day 29: June 14th, 2021
 ##### 
 
 **Today's Progress**:
