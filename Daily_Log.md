@@ -326,6 +326,16 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 ### Day 29: June 14th, 2021
 ##### 
 
-**Today's Progress**:
+**Today's Progress**: I made some stage 3 exercises and finished the 3rd stage project.
+**Thoughts**: I am happy that i finaly finished the third stage. 
+**Link(s) to work**: [Currency Converter](http://www.github.com/zakariabs)
+
+---
+
+### Day 29: June 14th, 2021
+##### 
+
+**Today's Progress**: 
 **Thoughts**: 
 **Link(s) to work**: [Currency Converter](http://www.github.com/zakariabs)
+
