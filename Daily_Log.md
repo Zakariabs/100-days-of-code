@@ -8,6 +8,7 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
 ---
 
 ### Day 2: Mai 17, 
@@ -259,7 +260,7 @@ I have revieuw the lesson to find more patterns to solve the problem!
 
 ---
 
-### Day 23: June 8th, 2021
+### Day 23: June 9th, 2021
 ##### 
 
 **Today's Progress**: I rode the Lists topic on py4.com and the exercise. I am still sovling the daily challenges of Hyperskill.org
@@ -271,7 +272,7 @@ I have revieuw the lesson to find more patterns to solve the problem!
 
 
 ---
-### Day 24: June 9th, 2021
+### Day 24: June 10th, 2021
 
 **Today's Progress**: Finished one topic in Jetbrains Academy and repeated one lesson and made some quizes and solved some problemes.
 Solved one problem in Codewars.
@@ -282,7 +283,7 @@ That made me more unfocused.
 **Link(s) to work**: [Currency Converter](http://www.github.com/zakariabs)
 
 ---
-### Day 25: June 10th, 2021
+### Day 25: June 11th, 2021
 ##### 
 
 **Today's Progress**: I worked further on the CurrencyConverter Project. I made related exercises and rode some topics
@@ -294,7 +295,7 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 
 ---
 
-### Day 26: June 11th, 2021
+### Day 26: June 12th, 2021
 ##### 
 
 **Today's Progress**: getting stuck with the sum exercise still trying several ways to solve the problem.
@@ -303,7 +304,7 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 
 ---
 
-### Day 27: June 12th, 2021
+### Day 27: June 13th, 2021
 ##### 
 
 **Today's Progress**: getting stuck with the sum exercise still trying several ways to solve the problem. i made some progress by getting clean integers and putting them in a list. Now have i to get the sum of each line and print it.
@@ -312,7 +313,7 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 
 ---
 
-### Day 28: June 13th, 2021
+### Day 28: June 14th, 2021
 ##### 
 
 **Today's Progress**: I solved the problem after 3 days.
@@ -323,7 +324,7 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 
 ---
 
-### Day 29: June 14th, 2021
+### Day 29: June 15th, 2021
 ##### 
 
 **Today's Progress**: I made some stage 3 exercises and finished the 3rd stage project.
@@ -332,10 +333,18 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 
 ---
 
-### Day 29: June 14th, 2021
+### Day 30: June 16th, 2021
+##### 
+
+**Today's Progress**: I watched the video's about Dictionaries on FreeCodeCamp.
+**Thoughts**: I will focus first on the FreeCodeCamp Lessons. The content there is more beginner Friendly. 
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+
+---
+
+### Day 31: June 17th, 2021
 ##### 
 
 **Today's Progress**: 
 **Thoughts**: 
-**Link(s) to work**: [Currency Converter](http://www.github.com/zakariabs)
-
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
