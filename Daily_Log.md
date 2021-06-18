@@ -342,9 +342,20 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 
 ---
 
-### Day 31: June 17th, 2021
+### Day 32: June 18th, 2021
+##### 
+
+**Today's Progress**: I made the dictionary exercise in realtime with the instructor. 
+**Thoughts**: My endwork took all my energy. I was not in the mood to code.
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+
+---
+
+### Day 33: June 17th, 2021
 ##### 
 
 **Today's Progress**: 
 **Thoughts**: 
 **Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+
+---
