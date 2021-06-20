@@ -351,11 +351,19 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 
 ---
 
-### Day 33: June 17th, 2021
+### Day 33: June 19th, 2021
 ##### 
 
-**Today's Progress**: 
-**Thoughts**: 
+**Today's Progress**: still working on dictionary 
+**Thoughts**: less motivated but i have to keep going
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+
+---
+### Day 34: June 20th, 2021
+##### 
+
+**Today's Progress**: finished topic about dictionaries and and made the final exercise
+**Thoughts**: it feels good to finaly have an "ok" undertanding of data-structues
 **Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
 
 ---
