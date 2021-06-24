@@ -367,3 +367,23 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 **Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
 
 ---
+### Day 35: June 22th, 2021
+##### 
+
+**Today's Progress**: revised data structures
+**Thoughts**: combining data structurs is little bit comlex i have to take my time to play with it
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+
+---
+### Day 36: June 23th, 2021
+##### 
+**Today's Progress**: revised datastrucurs
+**Thoughts**: combining datastructurs is little bit comlex i have to take my time to play with it
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+---
+### Day 35: June 22th, 2021
+##### 
+**Today's Progress**: started with regular expressions
+**Thoughts**: after finishing eind work. i have more time to focus on my coding map.
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+---
