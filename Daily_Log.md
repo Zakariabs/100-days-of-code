@@ -400,3 +400,21 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 **Thoughts**: I got a little bit demotivated. but right now i have to keep going.
 **Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
 ---
+### Day 40: June 30th, 2021
+##### 
+**Today's Progress**: wachted the first video of CS50
+**Thoughts**: taking a step backward to gain some motivation
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+---
+### Day 40: June 31th, 2021
+##### 
+**Today's Progress**: Finished 2 topics of the hangman project.
+**Thoughts**: Coding outside of home helped a lot.  
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+---
+### Day 41: July 1st, 2021
+##### 
+**Today's Progress**: Almost done with the reverse shell project. 
+**Thoughts**: By working on something a like I was able to focus almost 3 hours in a row. I will work on projects that i like the most. 
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+---
