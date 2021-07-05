@@ -418,3 +418,28 @@ I am trying to contribute on github and build my a good Portfolio. JetBrain Acad
 **Thoughts**: By working on something a like I was able to focus almost 3 hours in a row. I will work on projects that i like the most. 
 **Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
 ---
+### Day 43: July 2nd, 2021
+##### 
+**Today's Progress**: I worked further on the reverse shell project
+**Thoughts**: I am very happy to see what the benefit of python is.
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+---
+### Day 44: July 3rd, 2021
+##### 
+**Today's Progress**: finished the project but i got some tracebacks. I fixed it finally and the reverse shell is working 
+**Thoughts**: I noticed how passioned i am about offense security.  
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+---
+### Day 45: July 4th, 2021
+##### 
+**Today's Progress**: finished the project but i got some tracebacks. I fixed it finally and the reverse shell is working 
+**Thoughts**: I noticed how passioned i am about offense security.  
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+---
+### Day 45: July 5th, 2021
+##### 
+**Today's Progress**: watched some networking video's on freecodecamp to keep going with the track
+**Thoughts**: By doing the reverse shell project i was able to understand lot things liks the libraries.
+**Link(s) to work**: [github.com/zakariabs](http://www.github.com/zakariabs)
+
+---
